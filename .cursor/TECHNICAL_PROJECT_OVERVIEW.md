@@ -15,5 +15,5 @@ npm install         # first run
 npm run dev         # build + serve with hot reload on http://localhost:8080
 ```
 
-Quartz writes the static output to `public/` (ignored by git). When ready, commit changes and `git push` — the Pages workflow handles publication automatically. Update `<github-username>` placeholders inside `quartz.config.ts` and `package.json` once the final repo path is known.
+Quartz writes the static output to `public/` (ignored by git). When ready, commit changes and `git push` — the Pages workflow handles publication automatically. Update `<github-username>` placeholders inside `quartz.config.ts` and `package.json` once the final repo path is known (currently set to `artu/English`).
 

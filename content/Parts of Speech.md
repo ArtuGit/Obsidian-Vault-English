@@ -16,6 +16,7 @@ A **verb** expresses an action, an occurrence, or a state of being. Verbs are es
 
 An **adjective** describes or modifies a noun or pronoun. It gives more detail by answering questions like _What kind?_ _How many?_ or _Which one?_ In "The **red** balloon floated away," "red" is the adjective modifying "balloon."
 
+[[Understanding -ing and -ed Adjective Endings in English]]
 ## Adverb
 
 An **adverb** modifies a verb, adjective, or another adverb. It provides information about how, when, where, or to what extent something happens. Adverbs answer questions such as _How?_ _When?_ _Where?_ and _To what extent?_ For example, "She sings **beautifully**" uses "beautifully" as an adverb modifying "sings."
