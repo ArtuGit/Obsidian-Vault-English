@@ -48,9 +48,51 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "16319afce12fc3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conditionals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conditionals"
+            }
+          },
+          {
+            "id": "d343bd13436c70ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Participle Clauses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Participle Clauses"
+            }
+          },
+          {
+            "id": "bf8fcff141caaf49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zero Conditional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zero Conditional"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,6 +231,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -198,10 +241,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ae43d7419d91505",
+  "active": "d343bd13436c70ba",
   "lastOpenFiles": [
-    "Parts of Speech.md",
     "index.md",
+    "Conditionals.md",
+    "Zero Conditional.md",
+    "Mixed Conditionals.md",
+    "Third Conditional.md",
+    "Second Conditional.md",
+    "First Conditional.md",
+    "Conditional sentences.md",
+    "Parts of Speech.md",
     "Participle Clauses.md",
     "Subject, Predicate, and Object.md",
     "Understanding -ing and -ed Adjective Endings in English.md",
@@ -210,7 +260,6 @@
     "Untitled",
     "Articles.md",
     "Prepositions of quantity.md",
-    "Conditionals.md",
     "When Are Countable Nouns Used Without “A” or “An” in English?.md",
     "Adverbs of Frequency.md",
     "Untitled 1"
