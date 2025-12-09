@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tenses.md",
+                "file": "Present Continuous.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tenses"
+              "title": "Present Continuous"
             }
           },
           {
@@ -285,10 +285,21 @@
   },
   "active": "d8c9b2157d5b2eab",
   "lastOpenFiles": [
+    "Tenses.md",
+    "Future Perfect Continuous.md",
+    "Future Perfect.md",
+    "Future Continuous.md",
+    "Going to Future.md",
+    "Future Simple.md",
+    "Past Perfect Continuous.md",
+    "Past Perfect.md",
+    "Past Continuous.md",
+    "Past Simple.md",
+    "Present Perfect.md",
+    "Present Simple.md",
     "index.md",
     "Present Continuous.md",
     "Present Perfect Continuous.md",
-    "Tenses.md",
     "Participle Clauses.md",
     "Conditionals.md",
     "Zero Conditional.md",
@@ -300,13 +311,7 @@
     "Parts of Speech.md",
     "Subject, Predicate, and Object.md",
     "Understanding -ing and -ed Adjective Endings in English.md",
-    "Tag Questions.md",
-    "Welcome.md",
     "Untitled",
-    "Articles.md",
-    "Prepositions of quantity.md",
-    "When Are Countable Nouns Used Without “A” or “An” in English?.md",
-    "Adverbs of Frequency.md",
     "Untitled 1"
   ]
 }
