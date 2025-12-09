@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Present Continuous.md",
+                "file": "Past Simple.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Present Continuous"
+              "title": "Past Simple"
             }
           },
           {
@@ -285,6 +285,9 @@
   },
   "active": "d8c9b2157d5b2eab",
   "lastOpenFiles": [
+    "Present Perfect.md",
+    "Prepositions of quantity.md",
+    "Present Continuous.md",
     "Tenses.md",
     "Future Perfect Continuous.md",
     "Future Perfect.md",
@@ -295,10 +298,8 @@
     "Past Perfect.md",
     "Past Continuous.md",
     "Past Simple.md",
-    "Present Perfect.md",
     "Present Simple.md",
     "index.md",
-    "Present Continuous.md",
     "Present Perfect Continuous.md",
     "Participle Clauses.md",
     "Conditionals.md",
@@ -310,7 +311,6 @@
     "Conditional sentences.md",
     "Parts of Speech.md",
     "Subject, Predicate, and Object.md",
-    "Understanding -ing and -ed Adjective Endings in English.md",
     "Untitled",
     "Untitled 1"
   ]
