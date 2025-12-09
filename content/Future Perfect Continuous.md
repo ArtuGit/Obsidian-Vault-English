@@ -168,6 +168,33 @@ Use [[Future Perfect]] instead for these verbs:
 
 ---
 
+## Passive Voice
+
+⚠️ **The Future Perfect Continuous Passive is grammatically possible but virtually never used.** It's considered extremely awkward and should be avoided.
+
+### Form (Theoretical)
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | will have been being + past participle | The road **will have been being repaired** for a year. |
+
+### Why It's Never Used
+
+The structure "will have been being" is excessively complex and sounds unnatural. Native speakers always use alternatives:
+
+| Never use (extremely awkward) | Use instead (natural) |
+|------------------------------|----------------------|
+| By June, the building **will have been being renovated** for 6 months. | By June, the building **will have been under renovation** for 6 months. |
+| The issue **will have been being discussed** for hours. | They **will have been discussing** the issue for hours. *(active)* |
+| The project **will have been being developed**. | The project **will have been in development**. |
+
+**Recommendation:** Never use this form. Always choose:
+- [[Future Perfect]] Passive: *will have been + past participle*
+- Active voice: *will have been + verb-ing*
+- Alternative expressions: *will have been under..., will have been in...*
+
+---
+
 ## Practice Tips
 
 1. **Career/life milestones:** Project your activities into the future with duration. "By 2030, I will have been working in this field for 15 years. By my 50th birthday, I will have been married for 20 years."

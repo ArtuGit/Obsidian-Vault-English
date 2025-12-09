@@ -169,6 +169,41 @@ Real/possible future situations.
 
 ---
 
+## Passive Voice
+
+The Future Simple Passive is commonly used for predictions, announcements, and formal statements about what will happen.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | will be + past participle | The package **will be delivered** tomorrow. |
+| **Negative** | will not (won't) be + past participle | The meeting **won't be cancelled**. |
+| **Question** | Will + subject + be + past participle? | **Will** the project **be finished** on time? |
+
+### Examples
+
+**Predictions and certainties:**
+- The results **will be announced** next week.
+- The winner **will be chosen** by a panel of judges.
+- The new law **will be implemented** in January.
+
+**Promises and assurances:**
+- Your order **will be shipped** within 24 hours.
+- The problem **will be fixed** immediately.
+- You **will be informed** as soon as we know.
+
+**Formal announcements:**
+- The ceremony **will be held** at the town hall.
+- Refreshments **will be served** after the presentation.
+- All participants **will be notified** by email.
+
+**First conditional:**
+- If the weather is bad, the event **will be postponed**.
+- The refund **will be processed** if you return the item.
+
+---
+
 ## Practice Tips
 
 1. **Spontaneous reactions:** Practice making instant decisions. "Someone's at the door—I'll get it. I'm thirsty—I'll have some water."

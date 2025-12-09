@@ -169,6 +169,37 @@ In casual speech, "going to" is often pronounced "gonna":
 
 ---
 
+## Passive Voice
+
+The "Going to" Passive is used for planned actions or predictions based on evidence, when the focus is on what will happen rather than who will do it.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | am/is/are + going to be + past participle | The house **is going to be sold**. |
+| **Negative** | am/is/are + not + going to be + past participle | The project **isn't going to be finished** on time. |
+| **Question** | Am/Is/Are + subject + going to be + past participle? | **Is** the road **going to be repaired**? |
+
+### Examples
+
+**Planned actions:**
+- The building **is going to be demolished** next month.
+- New software **is going to be installed** this week.
+- The report **is going to be submitted** tomorrow.
+
+**Predictions based on evidence:**
+- Look at those clouds—the game **is going to be cancelled**.
+- The bridge **is going to be closed**—there's too much damage.
+- This product **is going to be discontinued**—sales are very low.
+
+**Intentions (formal):**
+- Changes **are going to be made** to the policy.
+- All employees **are going to be informed** of the decision.
+- The issue **is going to be addressed** at the next meeting.
+
+---
+
 ## Practice Tips
 
 1. **Weekend plans:** Describe your upcoming plans. "This weekend, I'm going to clean my apartment. I'm going to meet my friends. We're going to watch a movie."

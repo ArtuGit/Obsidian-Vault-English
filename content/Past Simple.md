@@ -188,6 +188,42 @@ Hypothetical/unreal situations in the present or future.
 
 ---
 
+## Passive Voice
+
+The Past Simple Passive is very commonly used, especially for historical events, news, and formal writing.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | was/were + past participle | The building **was constructed** in 1920. |
+| **Negative** | was/were + not + past participle | The email **wasn't sent** yesterday. |
+| **Question** | Was/Were + subject + past participle? | **Was** the package **delivered**? |
+
+### Examples
+
+**Historical events:**
+- America **was discovered** in 1492.
+- The pyramids **were built** thousands of years ago.
+- The treaty **was signed** after the war.
+
+**News and reports:**
+- Three people **were injured** in the accident.
+- The suspect **was arrested** last night.
+- The decision **was announced** this morning.
+
+**Completed actions (agent unknown/unimportant):**
+- My car **was stolen** yesterday.
+- The window **was broken** during the storm.
+- The book **was written** in the 19th century.
+
+**Formal/official contexts:**
+- The meeting **was held** on Monday.
+- The results **were published** last week.
+- All participants **were informed** of the changes.
+
+---
+
 ## Practice Tips
 
 1. **Tell your day:** Each evening, describe what you did today in Past Simple. "I woke up at 7. I had coffee. I worked from home. I cooked dinner."

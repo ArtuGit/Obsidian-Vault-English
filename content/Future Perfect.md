@@ -161,6 +161,41 @@ Looking back from a future viewpoint.
 
 ---
 
+## Passive Voice
+
+The Future Perfect Passive describes actions that will be completed before a specific future time, in passive form.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | will have been + past participle | The project **will have been completed** by Friday. |
+| **Negative** | will not (won't) have been + past participle | The report **won't have been finished** by then. |
+| **Question** | Will + subject + have been + past participle? | **Will** the work **have been done** by Monday? |
+
+### Examples
+
+**Completion before a deadline:**
+- By next month, the building **will have been renovated**.
+- The order **will have been shipped** by tomorrow.
+- By the time you arrive, dinner **will have been prepared**.
+
+**Achievements by a future point:**
+- By 2030, millions of trees **will have been planted**.
+- By graduation, all requirements **will have been fulfilled**.
+- By year's end, 1000 units **will have been sold**.
+
+**Formal announcements:**
+- By the deadline, all applications **will have been reviewed**.
+- The decision **will have been made** before the meeting.
+- All guests **will have been informed** by next week.
+
+**Duration (formal):**
+- By December, the bridge **will have been under construction** for two years.
+- By then, the case **will have been investigated** for months.
+
+---
+
 ## Practice Tips
 
 1. **Deadlines:** Think about what you'll have completed by specific deadlines. "By the end of today, I'll have sent 20 emails. By Friday, I'll have finished this project."

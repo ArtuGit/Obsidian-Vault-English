@@ -141,6 +141,37 @@ Verbs describing states (not actions) usually only use simple forms.
 
 ---
 
+## Passive Voice
+
+The Present Simple Passive is commonly used for general truths, processes, and formal statements.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | am/is/are + past participle | English **is spoken** here. |
+| **Negative** | am/is/are + not + past participle | This product **isn't sold** online. |
+| **Question** | Am/Is/Are + subject + past participle? | **Is** coffee **grown** in Brazil? |
+
+### Examples
+
+**General facts and processes:**
+- Coffee **is grown** in Brazil.
+- Cars **are made** in Germany.
+- The museum **is visited** by thousands of tourists every year.
+
+**Rules and regulations:**
+- Smoking **is not allowed** in this building.
+- Phones **are not permitted** during the exam.
+- Visitors **are required** to wear badges.
+
+**Habits and routines (formal):**
+- The office **is cleaned** every evening.
+- Reports **are submitted** on Fridays.
+- The mail **is delivered** at 9 AM.
+
+---
+
 ## Practice Tips
 
 1. **Daily routine exercise:** Describe your typical day using Present Simple. "I wake up at 7. I have breakfast. I go to work..."

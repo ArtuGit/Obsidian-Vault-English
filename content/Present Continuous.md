@@ -150,6 +150,37 @@ These verbs describe states, not actions, and typically don't take -ing:
 
 ---
 
+## Passive Voice
+
+The Present Continuous Passive describes actions being done right now or temporary situations in passive form.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | am/is/are + being + past participle | The car **is being repaired**. |
+| **Negative** | am/is/are + not + being + past participle | The room **isn't being used** today. |
+| **Question** | Am/Is/Are + subject + being + past participle? | **Is** the problem **being fixed**? |
+
+### Examples
+
+**Actions happening now:**
+- The road **is being repaired** at the moment.
+- New employees **are being trained** this week.
+- The house **is being painted** right now.
+
+**Temporary situations:**
+- The building **is being renovated** this month.
+- My car **is being serviced** today.
+- The documents **are being reviewed** currently.
+
+**Processes in progress:**
+- A new system **is being developed**.
+- The issue **is being investigated** by the team.
+- Orders **are being processed** as we speak.
+
+---
+
 ## Practice Tips
 
 1. **Describe what you see:** Look around and describe what's happening. "My cat is sleeping. The sun is shining. Cars are passing by the window."

@@ -170,6 +170,30 @@ Use [[Past Perfect]] instead for these verbs:
 
 ---
 
+## Passive Voice
+
+⚠️ **The Past Perfect Continuous Passive is grammatically possible but extremely rare.** It's awkward and almost never used in practice.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | had been being + past participle | The building **had been being renovated**. |
+
+### Why It's Rarely Used
+
+The structure "had been being" is considered very clumsy. Native speakers avoid it in favor of simpler alternatives:
+
+| Instead of (awkward) | Use (natural) |
+|---------------------|---------------|
+| The road **had been being repaired** for months. | The road **had been under repair** for months. |
+| The case **had been being investigated**. | The case **had been investigated** for months. *(Past Perfect Passive)* |
+| The project **had been being developed**. | They **had been developing** the project. *(Active voice)* |
+
+**Recommendation:** Avoid this construction entirely. Use [[Past Perfect]] Passive or rewrite in active voice.
+
+---
+
 ## Practice Tips
 
 1. **Explain past states:** Think of past situations and explain them. "I was tired because I had been exercising. I was hungry because I hadn't been eating properly."

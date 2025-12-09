@@ -176,6 +176,41 @@ How long something had lasted before another past event.
 
 ---
 
+## Passive Voice
+
+The Past Perfect Passive describes actions that were completed before another past event, in passive form.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | had been + past participle | The work **had been finished** before he arrived. |
+| **Negative** | had not (hadn't) been + past participle | The letter **hadn't been sent** yet. |
+| **Question** | Had + subject + been + past participle? | **Had** the decision **been made**? |
+
+### Examples
+
+**Actions completed before another past event:**
+- The house **had been sold** before we made an offer.
+- By the time I arrived, the problem **had been solved**.
+- The email **had been sent** before I noticed the mistake.
+
+**Explaining past situations:**
+- He was upset because he **hadn't been invited** to the party.
+- The room was clean because it **had been tidied** earlier.
+- She knew the answer because the solution **had been explained** to her.
+
+**Reported speech:**
+- She said the documents **had been prepared**.
+- He mentioned that the meeting **had been cancelled**.
+- They explained that the decision **had been made** the day before.
+
+**Third conditional:**
+- If the warning **had been given** earlier, we would have evacuated.
+- The accident wouldn't have happened if the road **had been repaired**.
+
+---
+
 ## Practice Tips
 
 1. **Before/After sentences:** Make pairs of events and practice the sequence. "Before I went to bed, I had brushed my teeth. After I had eaten dinner, I watched TV."

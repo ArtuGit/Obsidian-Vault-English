@@ -152,6 +152,35 @@ These verbs don't take the continuous form—use [[Present Perfect]] instead:
 
 ---
 
+## Passive Voice
+
+⚠️ **The Present Perfect Continuous Passive is grammatically possible but rarely used.** It's awkward and usually avoided in favor of other constructions.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | have/has + been + being + past participle | The house **has been being renovated**. |
+
+### Why It's Rarely Used
+
+The structure "has been being" is considered clumsy and overly complex. Native speakers typically prefer:
+
+| Instead of (awkward) | Use (natural) |
+|---------------------|---------------|
+| The road **has been being repaired** for weeks. | The road **has been under repair** for weeks. |
+| The issue **has been being discussed** all day. | The issue **has been discussed** all day. *(Present Perfect Passive)* |
+| The project **has been being developed**. | They **have been developing** the project. *(Active voice)* |
+
+### When You Might See It
+
+Very rarely in formal or technical writing when emphasizing ongoing passive action:
+- The matter **has been being investigated** since January.
+
+**Recommendation:** Avoid this construction. Use [[Present Perfect]] Passive or rewrite in active voice.
+
+---
+
 ## Practice Tips
 
 1. **Explain visible evidence:** Look at situations and explain them. "The kitchen is messy—someone has been cooking. The grass is short—someone has been mowing."

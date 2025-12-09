@@ -162,6 +162,37 @@ These verbs describe states and typically don't take -ing (use [[Past Simple]] i
 
 ---
 
+## Passive Voice
+
+The Past Continuous Passive describes actions that were being done at a specific moment in the past.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | was/were + being + past participle | The car **was being repaired** at that time. |
+| **Negative** | was/were + not + being + past participle | The room **wasn't being used** then. |
+| **Question** | Was/Were + subject + being + past participle? | **Was** the project **being discussed**? |
+
+### Examples
+
+**Actions in progress at a past moment:**
+- When I arrived, the house **was being painted**.
+- The road **was being repaired** all last week.
+- At 3 PM, the meeting **was being held** in the main hall.
+
+**Background actions in narratives:**
+- While the documents **were being prepared**, we waited outside.
+- The guests **were being served** when the lights went out.
+
+**Interrupted passive actions:**
+- The building **was being demolished** when they found the artifact.
+- The speech **was being recorded** when the power failed.
+
+**Note:** Less common than [[Past Simple]] Passive, but useful when emphasizing that the action was in progress.
+
+---
+
 ## Practice Tips
 
 1. **Describe a photo:** Look at a photo and describe what people were doing. "The man was sitting on a bench. Two children were playing in the park. A dog was running."

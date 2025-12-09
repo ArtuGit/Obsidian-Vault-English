@@ -164,6 +164,42 @@ How long something has continued up to now.
 
 ---
 
+## Passive Voice
+
+The Present Perfect Passive is commonly used when the action's result matters more than who did it.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | have/has + been + past participle | The report **has been finished**. |
+| **Negative** | have/has + not + been + past participle | The email **hasn't been sent** yet. |
+| **Question** | Have/Has + subject + been + past participle? | **Has** the problem **been solved**? |
+
+### Examples
+
+**Completed actions with present relevance:**
+- The project **has been completed**.
+- Your order **has been shipped**.
+- The meeting **has been cancelled**.
+
+**Recent changes:**
+- The website **has been updated**.
+- New rules **have been introduced**.
+- The password **has been changed**.
+
+**With "just," "already," "yet":**
+- The tickets **have just been released**.
+- The documents **have already been signed**.
+- The results **haven't been announced** yet.
+
+**Experiences (formal):**
+- This book **has been translated** into 20 languages.
+- The film **has been seen** by millions.
+- The cathedral **has been visited** by tourists for centuries.
+
+---
+
 ## Practice Tips
 
 1. **Life experience interview:** Ask yourself "Have you ever...?" questions. "Have I ever climbed a mountain? Yes, I have. I've climbed Mount Fuji."

@@ -165,6 +165,39 @@ These verbs typically don't use the continuous form—use [[Future Simple]]:
 
 ---
 
+## Passive Voice
+
+The Future Continuous Passive describes actions that will be in progress at a specific future time, in passive form. It's **less common** than other passive forms.
+
+### Form
+
+| Type | Structure | Example |
+|------|-----------|---------|
+| **Positive** | will be being + past participle | The project **will be being reviewed** at that time. |
+| **Negative** | will not be being + past participle | The room **won't be being used** then. |
+| **Question** | Will + subject + be being + past participle? | **Will** the documents **be being processed**? |
+
+### Examples
+
+**Actions in progress at a future time:**
+- At 3 PM tomorrow, the presentation **will be being given**.
+- This time next week, the building **will be being inspected**.
+- While we wait, the data **will be being analyzed**.
+
+### Usage Note
+
+⚠️ **The Future Continuous Passive is grammatically correct but uncommon.** The structure "will be being" can sound awkward. Native speakers often prefer alternatives:
+
+| Awkward | More Natural |
+|---------|--------------|
+| The report **will be being written** at 3 PM. | The report **will be** in progress at 3 PM. |
+| The house **will be being painted** tomorrow. | They **will be painting** the house tomorrow. *(active)* |
+| The issue **will be being discussed**. | The issue **will be under discussion**. |
+
+**Recommendation:** Use when necessary for emphasis, but consider active voice or simpler constructions.
+
+---
+
 ## Practice Tips
 
 1. **"This time tomorrow":** Describe what you'll be doing at specific future times. "This time tomorrow, I'll be sitting in a meeting. At midnight, I'll be sleeping."
