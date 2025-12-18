@@ -205,3 +205,5 @@ The Future Continuous Passive describes actions that will be in progress at a sp
 2. **Parallel activities:** Describe simultaneous future actions. "While I'm on vacation, my colleague will be covering my work."
 
 3. **Polite questions:** Practice making polite inquiries. "Will you be needing a ride? Will you be joining us for lunch?"
+
+

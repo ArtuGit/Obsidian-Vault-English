@@ -201,3 +201,5 @@ The structure "had been being" is considered very clumsy. Native speakers avoid 
 2. **How long before...:** Practice duration questions. "How long had you been learning English before you moved abroad? I had been studying for 5 years."
 
 3. **Story background:** Set scenes in stories. "The detective was tired. He had been working on the case for weeks. He had been interviewing witnesses all day."
+
+

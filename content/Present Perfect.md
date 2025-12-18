@@ -207,3 +207,5 @@ The Present Perfect Passive is commonly used when the action's result matters mo
 2. **Today's achievements:** At the end of each day, list what you've done. "Today I've sent 20 emails, I've had two meetings, and I've finished a report."
 
 3. **For/Since practice:** Write sentences about duration. "I've had this phone for two years. I've known my best friend since primary school."
+
+

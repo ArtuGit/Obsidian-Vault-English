@@ -207,3 +207,5 @@ The "Going to" Passive is used for planned actions or predictions based on evide
 2. **Predictions from evidence:** Look at situations and predict. "Look at the time—I'm going to be late! The sky is dark—it's going to rain."
 
 3. **Life goals:** Talk about your intentions. "I'm going to learn a new language. I'm going to travel more. I'm not going to waste my time."
+
+

@@ -188,3 +188,5 @@ The Present Continuous Passive describes actions being done right now or tempora
 2. **Temporary vs. permanent:** Think of 5 temporary things in your life and 5 permanent things. "I'm staying at my parents' house (temporary). I live in Spain (permanent)."
 
 3. **Future plans:** Practice making arrangements. "Tomorrow I'm meeting a friend. Next week I'm visiting my grandmother."
+
+

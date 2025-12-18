@@ -203,3 +203,5 @@ The Future Perfect Passive describes actions that will be completed before a spe
 2. **Life milestones:** Project your achievements into the future. "By 2030, I will have learned three languages. By the time I'm 50, I will have visited 30 countries."
 
 3. **"By the time" sentences:** Practice connecting events. "By the time you read this, I will have already left. By the time the movie starts, we will have found our seats."
+
+

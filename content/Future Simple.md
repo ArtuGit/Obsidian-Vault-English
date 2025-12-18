@@ -211,3 +211,5 @@ The Future Simple Passive is commonly used for predictions, announcements, and f
 2. **Prediction game:** Make predictions about the future. "I think AI will change education. I don't think people will stop using cars."
 
 3. **Offers and promises:** Practice offering help and making promises. "I'll help you with your homework. I won't be late tomorrow."
+
+

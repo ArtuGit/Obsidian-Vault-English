@@ -188,3 +188,5 @@ Very rarely in formal or technical writing when emphasizing ongoing passive acti
 2. **Duration questions:** Ask yourself "How long have I been...?" about current activities. "How long have I been living here? I've been living here for 5 years."
 
 3. **Process vs. result:** Practice both tenses for the same topic. "I've been writing my thesis (process). I've written three chapters (result)."
+
+

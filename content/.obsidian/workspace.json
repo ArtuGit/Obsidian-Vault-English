@@ -92,49 +92,77 @@
             }
           },
           {
-            "id": "6e48a58b90609343",
+            "id": "931e8fb14b6b04dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tenses.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tenses"
+              "title": "index"
             }
           },
           {
-            "id": "d8c9b2157d5b2eab",
+            "id": "371e0c70e87bd316",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Past Simple.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Past Simple"
+              "title": "index"
             }
           },
           {
-            "id": "bf8fcff141caaf49",
+            "id": "0de9c23070e4e7f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zero Conditional.md",
+                "file": "B1 Learning Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zero Conditional"
+              "title": "B1 Learning Plan"
+            }
+          },
+          {
+            "id": "5819db99ed316e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 Learning Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 Learning Plan"
+            }
+          },
+          {
+            "id": "6d6a555fad005d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Going to Future.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Going to Future"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -207,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conditionals.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +245,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Conditionals"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -263,13 +291,23 @@
               "icon": "lucide-list",
               "title": "Outline of Conditionals"
             }
+          },
+          {
+            "id": "15cb0fb8e3c597a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,34 +321,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8c9b2157d5b2eab",
+  "active": "6d6a555fad005d0c",
   "lastOpenFiles": [
+    "index.md",
+    "C1 Learning Plan.md",
+    "B2 Learning Plan.md",
+    "B1 Learning Plan.md",
+    "Future Perfect Continuous.md",
+    "Articles.md",
+    "Quantifiers.md",
+    "Word Order.md",
+    "Adverbs of Frequency.md",
+    "Personal Pronouns.md",
+    "Untitled.base",
+    "Parts of Speech.md",
+    "Past Simple.md",
+    "Participle Clauses.md",
+    "2025-12-14.md",
+    "Untitled.canvas",
+    "Untitled 3.base",
+    "Connecting Words.md",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Tenses.md",
+    "Zero Conditional.md",
     "Present Perfect.md",
     "Prepositions of quantity.md",
     "Present Continuous.md",
-    "Tenses.md",
-    "Future Perfect Continuous.md",
     "Future Perfect.md",
     "Future Continuous.md",
     "Going to Future.md",
     "Future Simple.md",
     "Past Perfect Continuous.md",
     "Past Perfect.md",
-    "Past Continuous.md",
-    "Past Simple.md",
-    "Present Simple.md",
-    "index.md",
-    "Present Perfect Continuous.md",
-    "Participle Clauses.md",
-    "Conditionals.md",
-    "Zero Conditional.md",
-    "Mixed Conditionals.md",
-    "Third Conditional.md",
-    "Second Conditional.md",
-    "First Conditional.md",
-    "Conditional sentences.md",
-    "Parts of Speech.md",
-    "Subject, Predicate, and Object.md",
     "Untitled",
     "Untitled 1"
   ]

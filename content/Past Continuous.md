@@ -200,3 +200,5 @@ The Past Continuous Passive describes actions that were being done at a specific
 2. **"What were you doing when...":** Practice interrupted actions. "What were you doing when the pandemic started? I was working in an office."
 
 3. **Tell a story:** Set the scene using Past Continuous, then add events in Past Simple. "It was raining. I was walking home. Suddenly, I saw my old friend."
+
+

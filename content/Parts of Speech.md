@@ -8,6 +8,8 @@ A **noun** names a person, place, thing, or idea. It serves as the subject or ob
 
 A **pronoun** replaces a noun to avoid repetition and simplify language. It helps refer back to something previously mentioned or clearly understood. Pronouns answer questions like _Who?_ or _Which one?_ Examples include "he," "they," "this," and "who."
 
+[[Connecting Words]]
+
 ## Verb
 
 A **verb** expresses an action, an occurrence, or a state of being. Verbs are essential to sentence structure and form the predicate. They answer questions such as _What is happening?_ or _What is the subject doing?_ In "She **runs** every morning," the verb is "runs."

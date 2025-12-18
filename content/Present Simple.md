@@ -179,3 +179,5 @@ The Present Simple Passive is commonly used for general truths, processes, and f
 2. **Facts about yourself:** Write 10 true sentences about your habits, preferences, and life. "I like music. I don't eat meat. I work from home."
 
 3. **Third person practice:** Describe someone else's routine. This forces you to remember the -s/-es rule. "My friend works at Google. She starts at 9..."
+
+

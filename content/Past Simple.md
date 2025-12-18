@@ -231,3 +231,5 @@ The Past Simple Passive is very commonly used, especially for historical events,
 2. **Irregular verb practice:** Write sentences using irregular verbs. Create a story using 10 different irregular verbs in the past.
 
 3. **Childhood memories:** Describe your childhood using Past Simple. "When I was 10, I lived in a small town. I went to school near my house. I played with my friends every day."
+
+

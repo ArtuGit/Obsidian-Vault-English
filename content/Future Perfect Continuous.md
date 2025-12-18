@@ -202,3 +202,5 @@ The structure "will have been being" is excessively complex and sounds unnatural
 2. **Explain future tiredness:** Predict conditions based on duration. "By the time I finish, I will have been standing for 6 hours—I'll be exhausted."
 
 3. **"How long will you have been...?":** Practice forming questions about future duration. "How long will you have been studying by the time you graduate?"
+
+
