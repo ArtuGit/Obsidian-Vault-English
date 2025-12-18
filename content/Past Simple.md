@@ -233,3 +233,4 @@ The Past Simple Passive is very commonly used, especially for historical events,
 3. **Childhood memories:** Describe your childhood using Past Simple. "When I was 10, I lived in a small town. I went to school near my house. I played with my friends every day."
 
 
+

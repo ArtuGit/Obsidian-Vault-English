@@ -213,3 +213,4 @@ The Future Simple Passive is commonly used for predictions, announcements, and f
 3. **Offers and promises:** Practice offering help and making promises. "I'll help you with your homework. I won't be late tomorrow."
 
 
+

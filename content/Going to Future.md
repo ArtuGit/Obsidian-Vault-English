@@ -209,3 +209,4 @@ The "Going to" Passive is used for planned actions or predictions based on evide
 3. **Life goals:** Talk about your intentions. "I'm going to learn a new language. I'm going to travel more. I'm not going to waste my time."
 
 
+

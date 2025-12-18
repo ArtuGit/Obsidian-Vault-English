@@ -203,3 +203,4 @@ The structure "had been being" is considered very clumsy. Native speakers avoid 
 3. **Story background:** Set scenes in stories. "The detective was tired. He had been working on the case for weeks. He had been interviewing witnesses all day."
 
 
+

@@ -181,3 +181,4 @@ The Present Simple Passive is commonly used for general truths, processes, and f
 3. **Third person practice:** Describe someone else's routine. This forces you to remember the -s/-es rule. "My friend works at Google. She starts at 9..."
 
 
+
