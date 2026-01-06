@@ -279,12 +279,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Present Continuous.md",
-                "mode": "preview",
+                "file": "Parts of Speech.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Present Continuous"
+              "title": "Parts of Speech"
             }
           },
           {
@@ -359,7 +359,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 363.5
   },
   "right": {
     "id": "e2e19272859f2959",
@@ -463,9 +463,12 @@
   },
   "active": "7a6bda33c79c4da7",
   "lastOpenFiles": [
-    "Possessives.md",
-    "Personal Pronouns.md",
+    "Demonstratives.md",
     "B1 Learning Plan.md",
+    "Possessives.md",
+    "Prepositions of quantity.md",
+    "Present Continuous.md",
+    "Personal Pronouns.md",
     "When Are Countable Nouns Used Without “A” or “An” in English?.md",
     "Articles.md",
     "index.md",
@@ -477,8 +480,6 @@
     "Would.md",
     "Present Perfect Continuous.md",
     "Tenses.md",
-    "Present Continuous.md",
-    "Prepositions of quantity.md",
     "Parts of Speech.md",
     "Tag Questions.md",
     "Going to Future.md",
@@ -489,7 +490,6 @@
     "Untitled.base",
     "Past Simple.md",
     "Participle Clauses.md",
-    "2025-12-14.md",
     "Untitled.canvas",
     "Untitled 3.base",
     "Untitled 2.base",
