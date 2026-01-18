@@ -116,3 +116,11 @@ For **singular countable nouns** in normal sentences, **you must use "a" or "an"
 |Fixed expressions|**Go to school**, **by car**|
 |Instructions or commands (shorthand)|**Push button**, **wear helmet**|
 |**Plural nouns** (general use)|**Cats** are friendly. (no article needed)|
+
+---
+
+## Links
+- Hub: [[Articles]]
+- Related: [[Countability and Articles]]
+- Related (style): [[Articles in Headlines and Titles]]
+- Related (institutions): [[Institutions: School, Hospital, Work, Home]]
