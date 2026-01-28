@@ -57,3 +57,9 @@ The **object** receives the action of the verb. There are two main types:
 | **Subject**   | Who/what the sentence is about | Who? / What?      | _The dog_ barked.        |
 | **Predicate** | What is said about the subject | What happened?    | The dog _barked loudly_. |
 | **Object**    | Who/what receives the action   | What? / Whom?     | She saw _a movie_.       |
+
+
+> [!TIP]
+> Want to **emphasize** information?
+> - Focus a subject/object/time/place: [[Cleft Sentences — It]]
+> - Focus an action/meaning: [[Cleft Sentences — What]]

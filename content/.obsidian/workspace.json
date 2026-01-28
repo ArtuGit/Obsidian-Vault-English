@@ -111,16 +111,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modifiers that Force or Block Articles.md",
+                "file": "B2 Learning Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Modifiers that Force or Block Articles"
+              "title": "B2 Learning Plan"
+            }
+          },
+          {
+            "id": "3de2c3c44e5523f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cleft Sentences — It.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cleft Sentences — It"
+            }
+          },
+          {
+            "id": "c91236a4eb053b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 Learning Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 Learning Plan"
+            }
+          },
+          {
+            "id": "9bf4788977378d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B2 Learning Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "B2 Learning Plan"
+            }
+          },
+          {
+            "id": "8c3b81387e63a686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cleft Sentences — It.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cleft Sentences — It"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -152,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cleft",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +229,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -279,8 +336,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6a815af4626f27a",
+  "active": "8c3b81387e63a686",
   "lastOpenFiles": [
+    "B2 Learning Plan.md",
+    "Cleft Sentences — What.md",
+    "Cleft Sentences — It.md",
+    "Modifiers that Force or Block Articles.md",
     "Articles.md",
     "Generic Reference with Articles.md",
     "Measurement and Frequency Expressions (a/an per).md",
@@ -290,7 +351,6 @@
     "Articles in Headlines and Titles.md",
     "Measurement and Frequency Expressions (a",
     "Quantifier Expressions that Look Like Articles.md",
-    "Modifiers that Force or Block Articles.md",
     "Institutions: School, Hospital, Work, Home.md",
     "Countability and Articles.md",
     "Articles — Core Meaning and Reference.md",
@@ -306,9 +366,6 @@
     "Adverbs of Frequency.md",
     "B1 Learning Plan.md",
     "Personal Pronouns.md",
-    "Parts of Speech.md",
-    "Tag Questions.md",
-    "Second Conditional.md",
     "Untitled.base",
     "Untitled.canvas",
     "Untitled 3.base",
