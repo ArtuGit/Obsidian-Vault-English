@@ -1,5 +1,4 @@
 
-
 English expresses “who/what something belongs to” in a few main ways:
 
 - **Possessive determiners** before a noun: *my book, her idea*

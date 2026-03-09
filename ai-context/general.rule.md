@@ -9,7 +9,7 @@ Obsidian Valet is designed to help with learning and referencing English languag
 - Use Obsidian-style wikilinks `[[note-name]]` to connect related topics.
 - Try to find and add cross-link to a created article
 
-## Markdown
+### Markdown
 Use such markdown elements as 
 -	>[!NOTE]
 -	>[!TIP]

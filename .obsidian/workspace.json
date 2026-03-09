@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "50b4bb8a99c07d30",
+    "type": "split",
+    "children": [
+      {
+        "id": "78e8bcca57744830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b767105326f95c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "528eda0d78468310",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0119b88cbb19fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd2230185e198c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0a0f4ddc9e557d67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e43eeb2742e56fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ddfaf4adeee3fea0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b530a2b35826c527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22a8dab89e5d577d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "746a1bf435943fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b26d0e1b19b2dd56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "532408b0d4596700",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "11ad57776a1e3f21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3b767105326f95c0",
+  "lastOpenFiles": [
+    "content/Going to Future.md",
+    "content/Expressing Cause and Effect.md",
+    "content/Comparing and Contrasting.md",
+    "content/Describing Processes.md",
+    "content/Narrating Past Events.md",
+    "content/Describing Habits.md",
+    "content/Expressing Possibility and Probability.md",
+    "content/Expressing Ability.md",
+    "content/Expressing Obligation and Necessity.md",
+    "content/Making Requests.md",
+    "content/Giving Advice.md",
+    "content/Making Suggestions.md",
+    "content/Agreeing and Disagreeing.md",
+    "content/Expressing Opinions.md",
+    "content/For vs Since vs Ago.md",
+    "content/Already, Yet, Still.md",
+    "content/Too vs Enough.md",
+    "content/Like vs As.md",
+    "content/So vs Such.md",
+    "content/Remember vs Remind.md",
+    "content/Borrow vs Lend.md",
+    "content/Bring vs Take.md",
+    "content/Say vs Tell.md",
+    "content/Make vs Do.md",
+    "content/Collocations with Get.md",
+    "content/Collocations with Take.md",
+    "openspec/changes/create-missing-b1-articles/specs/b1-learning-plan-coverage",
+    "openspec/changes/create-missing-b1-articles/specs",
+    "openspec/changes/create-missing-b1-articles",
+    "openspec/config.yaml",
+    "openspec/changes/archive/2026-03-09-add-articles-content-plan/specs/articles-content",
+    "openspec/changes/archive/2026-03-09-add-articles-content-plan/specs",
+    "openspec/changes/archive/2026-03-09-add-articles-content-plan",
+    "content/Untitled 4.base",
+    "content/Untitled 1.canvas",
+    "content/Untitled 3.base",
+    "content/Untitled.canvas",
+    "content/Untitled 2.base"
+  ]
+}

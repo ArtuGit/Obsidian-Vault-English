@@ -153,6 +153,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Future Perfect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Future Perfect"
+            }
+          },
+          {
+            "id": "46f6dd6c759782d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "B2 Learning Plan.md",
                 "mode": "source",
                 "source": false
@@ -162,21 +176,21 @@
             }
           },
           {
-            "id": "8c3b81387e63a686",
+            "id": "4f0a0209fdde7c10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cleft Sentences — It.md",
+                "file": "Gerund vs Infinitive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cleft Sentences — It"
+              "title": "Gerund vs Infinitive"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -208,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cleft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,8 +243,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -322,55 +335,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 572.5
+    "width": 797.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8c3b81387e63a686",
+  "active": "4f0a0209fdde7c10",
   "lastOpenFiles": [
-    "B2 Learning Plan.md",
-    "Cleft Sentences — What.md",
-    "Cleft Sentences — It.md",
-    "Modifiers that Force or Block Articles.md",
-    "Articles.md",
-    "Generic Reference with Articles.md",
-    "Measurement and Frequency Expressions (a/an per).md",
-    "Measurement and Frequency Expressions (a-an per).md",
-    "Indefinite Article (a-an).md",
-    "Article Errors and Diagnostics (B1–C1).md",
-    "Articles in Headlines and Titles.md",
-    "Measurement and Frequency Expressions (a",
-    "Quantifier Expressions that Look Like Articles.md",
-    "Institutions: School, Hospital, Work, Home.md",
-    "Countability and Articles.md",
-    "Articles — Core Meaning and Reference.md",
-    "Definite Article (the).md",
-    "Zero Article (no article).md",
-    "Indefinite Article (a/an).md",
-    "Indefinite Article (a",
-    "Proper Nouns and Place Names (Articles).md",
-    "Articles Practice Pack (with Answer Key).md",
-    "Understanding -ing and -ed Adjective Endings in English.md",
-    "Stative Verbs.md",
-    "Connecting Words.md",
-    "Adverbs of Frequency.md",
+    "Infinitives.md",
     "B1 Learning Plan.md",
+    "Gerunds.md",
+    "Passive Voice.md",
+    "index.md",
+    "Future in the Past.md",
+    "B2 Learning Plan.md",
+    "Zero Conditional.md",
+    "Wh-Questions.md",
+    "Yes-No Questions.md",
+    "Cleft Sentences — It.md",
+    "Tag Questions.md",
+    "Future Simple.md",
+    "Future Perfect.md",
+    "Participle Clauses.md",
+    "Prepositions of quantity.md",
+    "Possessives.md",
     "Personal Pronouns.md",
-    "Untitled.base",
+    "Past Simple.md",
+    "Mixed Conditionals.md",
+    "Conditionals.md",
+    "Conditional sentences.md",
+    "Would.md",
+    "Untitled 1.base",
     "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 4.base",
+    "2026-02-24.md",
+    "Untitled 1.canvas",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 1.base",
+    "Cleft Sentences — What.md",
+    "Modifiers that Force or Block Articles.md",
+    "Measurement and Frequency Expressions (a",
+    "Indefinite Article (a",
     "Untitled",
     "Untitled 1"
   ]
